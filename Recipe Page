@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head> 
+        <title>Sweet Potsto Casserole</title>
+   <meta charset="UTF-8">
+      </head>
+      <body>
+        <h1>Sweet Potsto Casserole</h1>
+        <p>Sweet potato casserole is a warm, comforting dish made with mashed sweet potatoes blended with butter, sugar, and spices. Its topped with a crunchy pecan and brown sugar streusel that adds a rich, nutty contrast. The result is a sweet, creamy interior balanced by a crisp, buttery topping.</p>
+       
+       <figure>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMnh7k-sEmb4rf0AdNPcfZiL_EstLbelZdg&s" alt="A nice Sweet potato Casserole!">
+        <figcaption>A beautiful Sweet Potato Casserole</figcaption>
+    </figure>
+
+       <h2>Ingreidents</h2>
+        <ul>
+        <li>6 potatoes</li>
+        <li>2 eggs</li>
+        <li>1/2 cup milk</li>
+        <li>4 tablespoons of softened butter</li>
+        <li>1/2 teaspoons vanilla</li>
+        <li>1/2 teaspoons salt</li>
+        <lil>1/2 cup white sugar</lil>
+        <li>1/2 cup brown sugar</li>
+        <li>1/3 cup flour</li>
+        <li>3 tablespoons of softend butter</li>
+    </ul>
+<h2>Instructions</h2>
+<ol>
+    <li>peel potatoes and cut them into cubed</li>
+    <li>fill mesuring cup with 4 cups of cubes</li>
+    <li>place cubes into a medium saucepan and cover with water</li>
+    <li>cook over medium-high until tender (10-15 mins)</li>
+    <li>drain and transfer into a bowl</li>
+    <li>mash the potatoes with a fork then add 2 eggs and mix well</li>
+    <li>add 1/2 cup milk, 4 tablespoons of softend butter, 1/2 teaspoons vanilla, 1/2 teaspoon salt, and 1/2 cup white sugar and mix until smooth</li>
+    <li>transfer to a 9x13 baking dish</li>
+    <li>Mix 1/2 cup brown sugar, 1/3 cup flour and 3 tablespoons of softend butter together until course and sprinkle over the potatoes</li>
+    <li>bake at 325 degrees for about 30 minutes until lighlt brown</li>
+</ol>
+
+    </body>
+    </html>
